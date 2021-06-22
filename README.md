@@ -1,1 +1,1 @@
-# shredder_machine-hand_protection
+# shredder_machine-hand_detection
